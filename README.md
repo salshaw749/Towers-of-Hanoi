@@ -24,20 +24,20 @@ ENJOY!
 ### Output Sample
 
 > ...Current Stacks...
-Left Stack: [3, 2, 1]
-Middle Stack: []
-Right Stack: []
-
-Which stack do you want to move from?
-
-Enter L for Left
-Enter M for Middle
-Enter R for Right
-L
-
-Which stack do you want to move to?
-
-Enter L for Left
-Enter M for Middle
-Enter R for Right
-M
+>Left Stack: [3, 2, 1]
+>Middle Stack: []
+>Right Stack: []
+>
+>Which stack do you want to move from?
+>
+>Enter L for Left
+>Enter M for Middle
+>Enter R for Right
+>L
+>
+>Which stack do you want to move to?
+>
+>Enter L for Left
+>Enter M for Middle
+>Enter R for Right
+>M
