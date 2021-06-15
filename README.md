@@ -3,10 +3,10 @@
 ----- 
 
 ### Introduction
-The idea behind this small project is to research, brainstorm, and build a basic terminal program by using `Stack Data Structure and Nodes`. So i'voe chose to build Towers of Hanoi which is an ancient mathematical puzzle that starts off with three stacks and many disks.
+The idea behind this small project is to research, brainstorm, and build a basic terminal program by using `Stack Data Structure and Nodes`. So the project it's about building `Towers of Hanoi` game which is an ancient mathematical puzzle that starts off with three stacks and many disks.
 
 ### The algorithm 
-Build a basic algorithm that will ask each user to enter where they want to move the disk.
+Build a basic algorithm that will ask the user to enter where he/she wants to move the disk.
 The objective is to move the stack of disks from the leftmost stack to the rightmost stack.
 
 The game follows three rules:
