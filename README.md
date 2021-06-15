@@ -19,3 +19,25 @@ The game follows three rules:
 For this project you don't need any dependencies or libraries. Just make sure that you've installed python3, you can check by oppening your terminal and write  `python -V`.
 However, you can pull the files and start plying from your terminal! By writting this command `python3 script.py`.
 ENJOY! 
+
+
+### Output Sample
+
+> ...Current Stacks...
+Left Stack: [3, 2, 1]
+Middle Stack: []
+Right Stack: []
+
+Which stack do you want to move from?
+
+Enter L for Left
+Enter M for Middle
+Enter R for Right
+L
+
+Which stack do you want to move to?
+
+Enter L for Left
+Enter M for Middle
+Enter R for Right
+M
